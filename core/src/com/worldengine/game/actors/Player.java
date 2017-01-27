@@ -29,6 +29,6 @@ public class Player extends Actor{
 
     @Override//Code for logic here.  Method is called act, cause it's an actor.  Get it?
     public void act(float deltaTime){
-
+        setX(getX()+5*deltaTime);
     }
 }
