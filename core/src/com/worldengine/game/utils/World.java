@@ -7,7 +7,7 @@ import com.worldengine.game.screens.GameScreen;
  */
 
 public class World {
-    //All code for updating logic should be placed here.  In other words, everything besides rendering
+    //All code for updating logic of world should be placed here
 
     public GameScreen gameScreen;
 
