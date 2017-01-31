@@ -5,4 +5,5 @@ package com.worldengine.game.utils;
  */
 
 public class Variables {
+
 }
